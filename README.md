@@ -1,4 +1,3 @@
 # mesasbj
-app que comunica el random según layout.
-
-dhakshjdsakhdsaj
+First version of 'mesasbj'
+V1.0
